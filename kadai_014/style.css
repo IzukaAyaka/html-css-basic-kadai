@@ -1,10 +1,14 @@
+html{
+  font-size: 20px;
+}
+
 body{
   text-align: center;
   font-family: "Arial", "Meiryo", sans-serif;
 }
 
 h1{
-  font-size: 40px;
+  font-size: 2em;
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: bold;
@@ -15,10 +19,6 @@ h1{
 
 .decoration{
   border: solid 3px rgb(115,115,114);
-}
-
-p{
-  font-size: 20px;
 }
 
 .blue{
